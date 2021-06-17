@@ -2,9 +2,10 @@
 Web scraper for https://animecharactersdatabase.com
 
 ## Installing
-``git clone https://github.com/Readtt/characters.js.git``
-``unzip``
-``Setup MySQL DB in MySQL.js file``
+``git clone https://github.com/Readtt/characters.js.git``<br>
+``unzip``<br>
+``Setup MySQL DB in MySQL.js file``<br>
+``npm install``<br>
 ``node .``
 
 ## Tips
